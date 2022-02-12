@@ -1,0 +1,16 @@
+shape: (5, 4)
+┌───────┬──────────────────┬─────────────────┬────────────────────┐
+│ state ┆ youngest         ┆ oldest          ┆ alphabetical_first │
+│ ---   ┆ ---              ┆ ---             ┆ ---                │
+│ cat   ┆ str              ┆ str             ┆ str                │
+╞═══════╪══════════════════╪═════════════════╪════════════════════╡
+│ FL    ┆ Charles Downing  ┆ Patrick Murphy  ┆ Abijah Gilbert     │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ WY    ┆ Stephen Nuckolls ┆ Barbara Cubin   ┆ Alan Simpson       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ OR    ┆ George Shiel     ┆ Greg Walden     ┆ Abraham Lafferty   │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ IA    ┆ Bernhart Henn    ┆ Abby Finkenauer ┆ Abby Finkenauer    │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ OK    ┆ David Harvey     ┆ Kendra Horn     ┆ Alice Robertson    │
+└───────┴──────────────────┴─────────────────┴────────────────────┘
