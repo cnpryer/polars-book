@@ -34,6 +34,8 @@
       - [Process timestamps](howcani/data/timestamps.md)
         \<> (        - [Process missing values](howcani/missing.md))
         \<> (        - [Process nested values (explode)](howcani/explode.md))
+  - [Config](howcani/config/intro.md)
+    - [Format DataFrames](howcani/config/format-dataframes.md)
 
 [//]: # (  - [Apply]&#40;howcani/apply/intro.md&#41;)
     \<> (        - [Apply NumPy universal functions](howcani/apply/numpy-ufuncs.md)
